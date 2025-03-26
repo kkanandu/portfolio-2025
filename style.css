@@ -32,12 +32,12 @@ html{
     text-decoration: none;
     color: black;
     font-size: 25px;
-/*     transition: transform 500ms; */
+    transition: transform 500ms;
 }
-/* .links:hover{
+.links:hover{
 
     transform: scale(1.5,1.5);
-} */
+}
 #home{
     margin: 100px 0 100px 0;
     display: grid;
@@ -49,9 +49,9 @@ html{
 .banner-img>img{
     width: 85%;
     height: 100%;
-    transform: skewX(30deg);
-    transition: transform 6s;
-    transition-behavior: inherit;
+/*     transform: skewX(30deg); */
+/*     transition: transform 6s;
+    transition-behavior: inherit; */
 
 
 }
